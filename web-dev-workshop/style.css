@@ -1,0 +1,18 @@
+/* calliong using class */
+.heading{
+    /* style properties */
+    color: magenta;
+    background-color: turquoise;
+}
+/* calling using tag */
+body{
+    width: 52vw;
+    background-color: thistle;
+}
+ul, ol{
+    color: blueviolet;
+}
+/* calling using id */
+#paragraph{
+    color: black;
+}

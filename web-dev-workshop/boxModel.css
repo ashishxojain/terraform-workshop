@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: space-around; 
+    height: 700px;
+}
+.box1{
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    /* border: width type color; */
+    border: 10px dashed gray;
+    /* margin: 20%; */
+    /* margin-left: 32.6%; */
+    padding: 10%;
+}
+
+#box_content{
+    
+    color: white;
+    text-align: justify;
+    
+    
+}
+body{
+    background-color: brown;
+    
+}
